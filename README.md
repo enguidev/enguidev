@@ -3,7 +3,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7FF&size=24&center=true&vCenter=true&width=1500&height=120&lines=Estudiante+y+autodidacta+apasionado+por+la+tecnología;Actualmente+usando+Java,+JavaFX,+Spring+Boot,+SQL,+HTML,+CSS,+JavaScript,+React,+PHP,+Laravel,+...;Aprendiendo+cada+día;Y+con+ganas+de+seguir+aprendiendo+y+creciendo">
 </a>
-<p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="center" width="350" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 </br>
 
 <h4> 
