@@ -90,7 +90,12 @@
   <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white">
 </span>
 
-<h4> 🛠️ Other Tools and Technologies </h4>
+<!--<h4> 🛠️ <b>Other Tools and Technologies</b> </h4>-->
+<h4>
+  <img src="https://em-content.zobj.net/thumbs/240/apple/354/hammer-and-wrench_1f6e0-fe0f.png" width="30" style="vertical-align: middle;">
+  <b> Other Tools and Technologies </b>
+</h4>
+
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
